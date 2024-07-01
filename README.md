@@ -65,9 +65,9 @@ For each model, hyperparameters were tuned using cross-validation to optimize pe
 
 ## Evaluation
 Model evaluation was based on:
-R^2: Proportion of variance explained by the model.
-MAPE: Mean absolute percentage error.
-RMSE: Root mean square error.
+* R^2: Proportion of variance explained by the model.
+* MAPE: Mean absolute percentage error.
+* RMSE: Root mean square error.
 The Extra Trees Regressor model performed the best, providing accurate predictions while minimizing errors.
 
 ## Conclusion
